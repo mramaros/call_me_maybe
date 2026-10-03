@@ -1,0 +1,6 @@
+
+➜  git git:(main) ✗ export UV_CACHE_DIR=/home/mramaros/goinfre/caches
+export HF_HOME=/home/mramaros/goinfre/caches
+
+
+➜  git git:(main) ✗ uv run python -m src
