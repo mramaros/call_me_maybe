@@ -1,5 +1,5 @@
-from llm_sdk import Small_LLM_Model
+from src.test import main
 
-llm = Small_LLM_Model()
-encoded = llm.encode("My name is ")
-print(encoded)
+
+if __name__ == "__main__":
+    main()
