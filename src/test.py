@@ -42,3 +42,5 @@ def main() -> None:
     all_function = list_of_chosen_keys(all_function_load, "name")
     for i in all_function:
         print(i)
+
+    print("Now let's take the numbered of probsbility")
